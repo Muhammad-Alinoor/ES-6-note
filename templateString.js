@@ -5,3 +5,7 @@ const second = "Chowdhury";
 const fullNew = `${first} ${second}`;
 console.log(fullNew);
 console.log(`${fullNew}`);
+const name = 'Hero';
+// const greetings = 'Welcome Home!' + ' ' +name;
+const greetings = `Welcome Home! ${name}`;
+console.log(greetings);
